@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;0,900;1,100;1,300;1,900&display=swap');
+
+header {
+    background-color: #1e226f;
+    margin: auto;
+}
+body{
+    background-color: #ffffffc7;
+   
+}
+.bonton{
+    background-color: #e49409;
+    text-align: center;
+    color: #f9f9f9;
+    padding: 10px;
+}
+
+.nav{
+    background-color: rgb(201, 155, 4);
+    text-align: center;
+    color: #c9c2c2;
+    padding: 10px;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    margin-right: 200px;
+
+}
+footer{
+
+background-color: rgb(50, 65, 116);
+    text-align: center;
+    color: #f9f9f9;
+    padding: 10px;
+}
