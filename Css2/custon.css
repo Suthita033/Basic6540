@@ -4,7 +4,7 @@
 
 }
 a{
-    background-color: rgb(50, 59, 99);
+   
     color: aliceblue;
     padding: 8px 24px;
     border-radius: 30px;
@@ -16,4 +16,18 @@ a{
 }
 input{
     margin-top: 10px;
+}
+
+.mybg {
+    background-color: rgba(18, 12, 189, 0.544);
+}
+.my-circle {
+margin: auto;
+ border-radius: 100px;
+ width: 100px;
+ height: 100px;
+ padding: 20px;
+}
+.my2bg{
+    background-color: rgba(17, 21, 94, 0.478);
 }
