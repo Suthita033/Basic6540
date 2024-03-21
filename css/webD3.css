@@ -143,7 +143,7 @@
 /* -----------------Start members Section---------------*/
 
 .member{
-   background-color: aqua;
+   background-color: rgb(34, 122, 103);
    padding: 40px;
 }
 
@@ -195,28 +195,28 @@ td{
    margin: auto; 
   width: 500px;
   border: 1px solid rgb(0, 0, 0);
-  background-color:  #39ccc5;
+  background-color:  #f7f8f8;
 }
 
 .name3{
   margin: auto; 
   width: 500px;
   border: 1px solid rgb(0, 0, 0);
-  background-color:  #39ccc5;
+  background-color:  #ffffff;
 }
 
 .name5{
   margin: auto; 
   width: 1005px;
   border: 1px solid rgb(0, 0, 0);
-  background-color: #39ccc5;
+  background-color: #ffffff;
 }
 
 .name6{
   margin: auto; 
   width: 1005px;
   border: 1px solid rgb(0, 0, 0);
-  background-color: #39ccc5;
+  background-color: #ffffff;
 }
 
 .message1{
@@ -233,7 +233,7 @@ td{
 }
 
 footer {
-   background-color: #06a77f; 
+   background-color: #112247; 
    text-align: center; 
    color: aliceblue;
    padding: 10px;
